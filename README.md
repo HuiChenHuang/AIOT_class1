@@ -18,6 +18,19 @@
 ---
 
 ## Steps Overview
+1. Draw linear regression with true and pre. regression line. Follow CRISP-DM steps (6 steps)
+
+2. combine all figures in one figure, and show the regressionline in red, modify the code to set y=a*X+50+c*np.random.randn(n,1),where a is -10 to 10, c is 0 to 100, n is number of points 10 to 500, allow user to input a, c, n as slider.
+  
+3. Then convert this code to streamlit(don't use matplotlib)
+
+4. pip install package. (etc. streamlit, numpy, pandas...)
+
+5. 在 vs code 的 terminal 輸入: `streamlit run XXX.py` (etc. test.py)
+
+6. 即可開啟前端的網頁介面
+
+##  CRISP-DM steps 
 ![https://ithelp.ithome.com.tw/upload/images/20240930/20151681u81ztol7A1.jpg](https://ithelp.ithome.com.tw/upload/images/20240930/20151681u81ztol7A1.jpg)
 
 ### 1. **User Input with Sliders**
@@ -77,7 +90,7 @@ The app shows the test data alongside the model's predictions in a table, making
 
 ---
 
-## Requirements
+## Requirements 要安裝的套件
 
 To run this application, you need the following Python libraries:
 
