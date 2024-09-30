@@ -1,17 +1,24 @@
-# Interactive Linear Regression Streamlit App
+# 互動式線性迴歸 Streamlit 應用程式
 
-This Streamlit application allows users to interactively perform linear regression on synthetic data. It enables the user to adjust key parameters such as the slope of the data, the noise level, and the number of data points. The app dynamically generates new data based on these inputs, trains a linear regression model, and evaluates the model's performance. It also visualizes the true vs. predicted regression lines and shows evaluation metrics such as Mean Squared Error (MSE) and R-squared (R²) values.
+此 Streamlit 應用程式允許使用者對合成數據進行互動式線性迴歸。使用者可以調整數據的斜率、噪聲水平以及數據點的數量等關鍵參數。應用程式根據這些輸入動態生成新的數據，訓練線性迴歸模型，並評估模型的性能。它還會將真實回歸線與預測回歸線進行可視化展示，並顯示評估指標，例如均方誤差（MSE）和決定係數（R²）值。
+
+# 資料檔案介紹:
+## 老師上課教學要做的作業(Python 檔): test.py
+## 老師上課教學要做的作業影片(使用FastStone): test_video.mp4
+## 依照老師教的延伸做更多train, test, predict 的 table, graph和分析結果(Python 檔): linear_regression_streamlit.py
+## 依照老師教的延伸做更多train, test, predict 的 table, graph和分析結果(使用FastStone): linear_regression_streamlit_video.mp4
 
 ## Features
-- **Interactive Parameter Tuning**: Users can control the slope (`a`), noise level (`c`), and number of data points (`n`) using sliders.
-- **Synthetic Data Generation**: Based on user inputs, synthetic data is generated following a linear equation with added noise.
-- **Model Training**: A linear regression model is trained on the generated data.
-- **Model Evaluation**: The app calculates and displays the MSE and R² values for both the training and test data.
-- **Data Visualization**: The app visualizes the true vs. predicted data points and regression line using Altair charts.
+- **Interactive Parameter Tuning**:使用者可以通過滑桿控制斜率（a）、噪聲水平（c）以及數據點的數量（n）。
+- **Synthetic Data Generation**: 根據使用者的輸入，應用程式生成依據線性方程並加入噪聲的合成數據。
+- **Model Training**: 在生成的數據上訓練一個線性迴歸模型。
+- **Model Evaluation**: 應用程式計算並顯示訓練數據和測試數據的均方誤差（MSE）和決定係數（R²）值。
+- **Data Visualization**: 應用程式使用 Altair 圖表可視化真實數據點與預測數據點及回歸線。
   
 ---
 
 ## Steps Overview
+![https://ithelp.ithome.com.tw/upload/images/20240930/20151681u81ztol7A1.jpg](https://ithelp.ithome.com.tw/upload/images/20240930/20151681u81ztol7A1.jpg)
 
 ### 1. **User Input with Sliders**
 
