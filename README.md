@@ -111,16 +111,12 @@ pip install streamlit numpy pandas scikit-learn altair
 To run the application, use the following command in your terminal:
 
 ```bash
-streamlit run <script_name>.py
+streamlit run test.py
 ```
 
-Replace `<script_name>` with the filename of your script.
-
+可替換 `test.py` 為 `linear_regression_streamlit.py` 執行其檔案
 ---
 
 ## Conclusion
 
 This Streamlit application provides an interactive and intuitive way to explore linear regression by allowing users to control the key parameters, generate synthetic data, train a model, and visualize the results. The inclusion of real-time feedback with evaluation metrics and plotting ensures that users can quickly assess the performance of the model.
-
-## test.py DEMO
-![上課老師示範的作業做法](assets/test_video.gif)
