@@ -120,3 +120,10 @@ streamlit run test.py
 ## Conclusion
 
 This Streamlit application provides an interactive and intuitive way to explore linear regression by allowing users to control the key parameters, generate synthetic data, train a model, and visualize the results. The inclusion of real-time feedback with evaluation metrics and plotting ensures that users can quickly assess the performance of the model.
+
+# HW1-2: 做 auto regression , multiple linear regression 
+             1. feature selection 
+             2. model evaluation
+             3. web implementation deployment 
+             4. 預測漏斗圖    (websim) 
+                https://www.finlab.tw/%E8%B6%85%E7%B0%A1%E5%96%AE-machine-learning-%E9%A0%90%E6%B8%AC%E8%82%A1%E5%83%B9/
