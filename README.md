@@ -123,13 +123,16 @@ streamlit run test.py
 This Streamlit application provides an interactive and intuitive way to explore linear regression by allowing users to control the key parameters, generate synthetic data, train a model, and visualize the results. The inclusion of real-time feedback with evaluation metrics and plotting ensures that users can quickly assess the performance of the model.
 
 # HW1-2 部分的README.md
-實作檔案:
-Boston 房價預測original data 經過新增prompt:(O)BostonHousing v1 (initial_Template)_add_prompt.ipynb: https://github.com/HuiChenHuang/AIOT_class1/blob/master/HW1_2/(O)BostonHousing%20v1%20(initial_Template)_add_prompt.ipynb
-
-(O)BostonHousing v1 (initial_Template)_add_prompt.ipynb
-(O)BostonHousing_v2(Half Done Lasso 沒按重要性選ok).ipynb
-(O)BostonHousing_v3_final(Lasso_MIFT_RFE_SelectKBest按重要性ok)_edit.ipynb
-chatgpt BostonHousing 課堂演練.pdf
-linear_regression_model.pkl
-網路範例1_load_boston.ipynb
-
+### 實作檔案:
+### Boston 房價預測original data 經過新增prompt:
+(O)BostonHousing v1 (initial_Template)_add_prompt.ipynb: 
+https://github.com/HuiChenHuang/AIOT_class1/blob/master/HW1_2/(O)BostonHousing%20v1%20(initial_Template)_add_prompt.ipynb
+### Boston 房價預測 "(O)BostonHousing_v3_final(Lasso_MIFT_RFE_SelectKBest按重要性ok)_edit.ipynb" 為完成以下內容之檔案(檔案內含有詳細註解與說明):
+檔案內容包刮: auto regression , multiple linear regression 
+             1. feature selection 
+             2. model evaluation
+             3. web implementation deployment 
+             4. 預測漏斗圖 (websim) 
+https://github.com/HuiChenHuang/AIOT_class1/blob/master/HW1_2/(O)BostonHousing_v3_final(Lasso_MIFT_RFE_SelectKBest%E6%8C%89%E9%87%8D%E8%A6%81%E6%80%A7ok)_edit.ipynb
+### 其他檔案為課程的補充資料和run .ipynb 所產生的檔案
+ 
