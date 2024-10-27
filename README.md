@@ -4,10 +4,10 @@
 此 Streamlit 應用程式允許使用者對合成數據進行互動式線性迴歸。使用者可以調整數據的斜率、噪聲水平以及數據點的數量等關鍵參數。應用程式根據這些輸入動態生成新的數據，訓練線性迴歸模型，並評估模型的性能。它還會將真實回歸線與預測回歸線進行可視化展示，並顯示評估指標，例如均方誤差（MSE）和決定係數（R²）值。
 
 # 資料檔案介紹:
-#### [老師上課教學要做的作業(Python 檔): HW1_1/test.py](test.py)
-#### [老師上課教學要做的作業影片(使用FastStone): HW1_1/test_video.mp4](test_video.mp4)
-#### [依照老師教的延伸做更多train, test, predict 的 table, graph和分析結果(Python 檔): HW1_1/linear_regression_streamlit.py](linear_regression_streamlit.py)
-#### [依照老師教的延伸做更多train, test, predict 的 table, graph和分析結果(使用FastStone): HW1_1/linear_regression_streamlit_video.mp4](linear_regression_streamlit_video.mp4)
+#### [老師上課教學要做的作業(Python 檔): test.py](HW1_1/test.py)
+#### [老師上課教學要做的作業影片(使用FastStone): test_video.mp4](HW1_1/test_video.mp4)
+#### [依照老師教的延伸做更多train, test, predict 的 table, graph和分析結果(Python 檔): linear_regression_streamlit.py](HW1_1/linear_regression_streamlit.py)
+#### [依照老師教的延伸做更多train, test, predict 的 table, graph和分析結果(使用FastStone): linear_regression_streamlit_video.mp4](HW1_1/linear_regression_streamlit_video.mp4)
 
 ## Features
 - **Interactive Parameter Tuning**:使用者可以通過滑桿控制斜率（a）、噪聲水平（c）以及數據點的數量（n）。
