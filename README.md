@@ -123,7 +123,9 @@ streamlit run test.py
 This Streamlit application provides an interactive and intuitive way to explore linear regression by allowing users to control the key parameters, generate synthetic data, train a model, and visualize the results. The inclusion of real-time feedback with evaluation metrics and plotting ensures that users can quickly assess the performance of the model.
 
 # HW1-2 部分的README.md
-#### [Boston 房價預測original data 經過新增prompt:(O)BostonHousing v1 (initial_Template).ipynb](HW1_2/(O)BostonHousing v1 (initial_Template).ipynb)
+實作檔案:
+Boston 房價預測original data 經過新增prompt:(O)BostonHousing v1 (initial_Template)_add_prompt.ipynb: https://github.com/HuiChenHuang/AIOT_class1/blob/master/HW1_2/(O)BostonHousing%20v1%20(initial_Template)_add_prompt.ipynb
+
 (O)BostonHousing v1 (initial_Template)_add_prompt.ipynb
 (O)BostonHousing_v2(Half Done Lasso 沒按重要性選ok).ipynb
 (O)BostonHousing_v3_final(Lasso_MIFT_RFE_SelectKBest按重要性ok)_edit.ipynb
