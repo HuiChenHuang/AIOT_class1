@@ -123,11 +123,12 @@ streamlit run test.py
 This Streamlit application provides an interactive and intuitive way to explore linear regression by allowing users to control the key parameters, generate synthetic data, train a model, and visualize the results. The inclusion of real-time feedback with evaluation metrics and plotting ensures that users can quickly assess the performance of the model.
 
 # HW1-2 部分的README.md
-# HW1-2: 做 auto regression , multiple linear regression 
-### 程式結果請查閱 "HW1_2" 資料夾 
-             1. feature selection 
-             2. model evaluation
-             3. web implementation deployment 
-             4. 預測漏斗圖    (websim) 
-                https://www.finlab.tw/%E8%B6%85%E7%B0%A1%E5%96%AE-machine-learning-%E9%A0%90%E6%B8%AC%E8%82%A1%E5%83%B9/
+[老師上課教學要做的作業(Python 檔): test.py](HW1_1/test.py)
+#### [Boston 房價預測original data 經過新增prompt: (O)BostonHousing v1 (initial_Template).ipynb ](HW1_2/(O)BostonHousing v1 (initial_Template)_edit.ipynb)
+(O)BostonHousing v1 (initial_Template)_add_prompt.ipynb
+(O)BostonHousing_v2(Half Done Lasso 沒按重要性選ok).ipynb
+(O)BostonHousing_v3_final(Lasso_MIFT_RFE_SelectKBest按重要性ok)_edit.ipynb
+chatgpt BostonHousing 課堂演練.pdf
+linear_regression_model.pkl
+網路範例1_load_boston.ipynb
 
